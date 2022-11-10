@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitaliy Smolyakov ( @vetalkjk )
-- 👀 I’m interested in I am interested in creating telegram bots, high-quality coding, application development. 
+- 👀 I’m interested in creating telegram bots, high-quality coding, application development. 
 - 🌱 I am currently learning how to write correct, readable python code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vetalkjk1@gmail.com
